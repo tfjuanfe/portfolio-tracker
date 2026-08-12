@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Local database (contains user accounts and portfolio data)
+*.db
+Database/database.db
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editors / OS
+.claude/settings.local.json
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.lnk
